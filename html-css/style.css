@@ -129,3 +129,7 @@ footer > p {
     background: #20c997;
     color: #fff;
  }
+
+ .form-fields .error-message {
+    color: red;
+ }
